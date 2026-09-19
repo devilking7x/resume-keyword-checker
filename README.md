@@ -17,7 +17,7 @@ Resume Keyword Checker extracts meaningful words from resume and job-description
 ## Getting started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/resume-keyword-checker.git
+git clone https://github.com/devilking7x/resume-keyword-checker.git
 cd resume-keyword-checker
 pnpm install
 pnpm dev
@@ -39,3 +39,7 @@ Text is processed in browser memory. The project does not intentionally upload r
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Demo
+
+Try the live app: https://devilking7x.github.io/resume-keyword-checker/
